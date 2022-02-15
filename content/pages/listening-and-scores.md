@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Listening and Scores
 uid: d41293da-8ebb-aa72-8f1f-4b32a0e39353
 ---
@@ -76,7 +78,7 @@ Beethoven, Ludvig van. 4. "Choral." _Symphony No. 9 in D minor, Op. 125_. From: 
 
 Solomon, Maynard. "The Sense of an Ending: The Ninth Symphony." Chapter 11 in _Late Beethoven: Music, Thought, Imagination_. University of California Press, 2004, pp. 213–28. ISBN: 9780520243392.
 
-Beethoven, Ludwig van. 4th movement. [Symphony No. 9 in D Minor, Op. 125](https://www.baerenreiter.com/en/search/product/?artNo=BA9009). Bärenreiter-Verlag. Score, Urtext edition. pp. 195–329. For open source full scores of the 9th Symphony see [IMSLP](http://imslp.org/wiki/Symphony_No.9,_Op.125_(Beethoven,_Ludwig_van)).
+Beethoven, Ludwig van. 4{{< sup "th" >}} movement. [Symphony No. 9 in D Minor, Op. 125](https://www.baerenreiter.com/en/search/product/?artNo=BA9009). Bärenreiter-Verlag. Score, Urtext edition. pp. 195–329. For open source full scores of the 9th Symphony see [IMSLP](http://imslp.org/wiki/Symphony_No.9,_Op.125_(Beethoven,_Ludwig_van)).
 
 ### Opera
 

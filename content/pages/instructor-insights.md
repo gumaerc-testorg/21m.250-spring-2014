@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 2cb302aa-7633-a76a-63a7-9e4e27e2c938
 ---
@@ -33,20 +35,6 @@ This is a HASS-A ![](/images/educator/icon-question-hass-a.png) course.
 ### Offered
 
 Every spring semester.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Photo shows the two pianos, blackboards that include staves, display, and audio components at the front of the classroom.]({{< resource_file d5963606-355c-6c32-111d-cb17166cbaec >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Music-dedicated room with modern tablet arm chairs. Additional equipment included two grand pianos, a CD/DVD player, cassette deck, and turntable for audio examples, and blackboards with music staves.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

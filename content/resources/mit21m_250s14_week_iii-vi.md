@@ -2,8 +2,13 @@
 content_type: resource
 description: "This is a resource file that contains information regarding weeks III-VI:\
   \ romantic lieder and characterst\xFCcke."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-250-beethoven-to-mahler-spring-2014/81ffd083e78d3cade360c8ebdcdeb748_MIT21M_250S14_Week_III-VI.pdf
+file: /media/courses/21m-250-beethoven-to-mahler-spring-2014/81ffd083e78d3cade360c8ebdcdeb748_MIT21M_250S14_Week_III-VI.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: "Weeks III-VI: Romantic Lieder and Characterst\xFCcke - 21M.250 Beethoven to\
   \ Mahler Spring 2014"

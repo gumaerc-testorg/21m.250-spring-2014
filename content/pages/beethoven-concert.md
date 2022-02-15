@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Beethoven Concert
 uid: df6177af-1eae-ee1d-ce1d-4c398d186695
 ---
