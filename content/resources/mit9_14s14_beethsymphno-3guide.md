@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Listening and Scores
 parent_type: CourseSection
+parent_uid: d41293da-8ebb-aa72-8f1f-4b32a0e39353
 resourcetype: Document
 title: Beethoven Symphony No. 3 Listening Guide - 21M.250 Spring 2014
 uid: c87288bb-5a60-2761-bd4c-5ad7444d8519

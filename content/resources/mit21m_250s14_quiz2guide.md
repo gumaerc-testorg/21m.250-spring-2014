@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 55f8b714-53bc-4fb4-5026-3ea0558067bd
 resourcetype: Document
 title: Exam 2 Study Guide - 21M.250 Beethoven to Mahler Spring 2014
 uid: 6c19dadc-e87b-388f-d589-27e91aea85d6

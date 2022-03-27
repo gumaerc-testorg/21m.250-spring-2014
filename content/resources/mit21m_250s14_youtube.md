@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 55f8b714-53bc-4fb4-5026-3ea0558067bd
 resourcetype: Document
 title: Opera Excerpts on YouTube - 21M.250 Beethoven to Mahler Spring 2014
 uid: 39cc7fc7-3402-1da3-5c6b-ff96d7963ad0
