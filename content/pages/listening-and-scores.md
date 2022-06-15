@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of required and optional materials for the
+  class including listening, videos, and scores.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Listening and Scores
@@ -38,7 +40,7 @@ Beethoven, Ludwig van. _Piano Trio Op. 1, No. 3 in C minor mvts 1 and 4_. From: 
 
 ———. "Allegro con brio." _Symphony No. 3 in E-flat major, Op. 55, "Eroica."_ From: _Beethoven: The Symphonies_. Orchestre Révolutionnaire et Romantique. John Eliot Gardiner. Archiv, 2010. Disc 2, Track 1.
 
-Listening Guide: [Beethoven Sympony No. 3 Listening Guide (PDF)]({{< baseurl >}}/resources/mit9_14s14_beethsymphno-3guide)
+Listening Guide: {{% resource_link c87288bb-5a60-2761-bd4c-5ad7444d8519 "Beethoven Sympony No. 3 Listening Guide (PDF)" %}}
 
 ———. _Symphony No. 5 in C minor, Op. 67_. From: _Beethoven: Symphonies Nos. 5 & 7._ Vienna Philharmonic. Carlos Kleiber. Deutsche Grammophon, 1996. Tracks 1–4.
 

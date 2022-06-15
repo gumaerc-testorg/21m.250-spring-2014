@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains a video of and information about a concert of selected
+  Beethoven compositions played on period instruments that took place as part of the
+  Handel & Haydn partnership with MIT on February 26, 2014 in Killian Hall.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Beethoven Concert
