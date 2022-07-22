@@ -6,6 +6,7 @@ file: /courses/21m-250-beethoven-to-mahler-spring-2014/5f5dab995fb72c10b1758be85
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Week II: Beethoven and Rossini; Bellini; Field; Schubert - 21M.250 Beeth
 uid: 5f5dab99-5fb7-2c10-b175-8be850627ca3
 ---
 This is a resource file that contains information regarding week II: beethoven and rossini; bellini; field; schubert.
-

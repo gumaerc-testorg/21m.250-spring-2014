@@ -6,6 +6,7 @@ file: /courses/21m-250-beethoven-to-mahler-spring-2014/81ffd083e78d3cade360c8ebd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "Weeks III-VI: Romantic Lieder and Characterst\xFCcke - 21M.250 Beethoven
 uid: 81ffd083-e78d-3cad-e360-c8ebdcdeb748
 ---
 This is a resource file that contains information regarding weeks III-VI: romantic lieder and characterstücke.
-
