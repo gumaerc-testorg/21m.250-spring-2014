@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a list of required and optional materials for the
+  class including listening, videos, and scores.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Listening and Scores
 uid: d41293da-8ebb-aa72-8f1f-4b32a0e39353
 ---
@@ -36,7 +40,7 @@ Beethoven, Ludwig van. _Piano Trio Op. 1, No. 3 in C minor mvts 1 and 4_. From: 
 
 ———. "Allegro con brio." _Symphony No. 3 in E-flat major, Op. 55, "Eroica."_ From: _Beethoven: The Symphonies_. Orchestre Révolutionnaire et Romantique. John Eliot Gardiner. Archiv, 2010. Disc 2, Track 1.
 
-Listening Guide: [Beethoven Sympony No. 3 Listening Guide (PDF)]({{< baseurl >}}/resources/mit9_14s14_beethsymphno-3guide)
+Listening Guide: {{% resource_link c87288bb-5a60-2761-bd4c-5ad7444d8519 "Beethoven Sympony No. 3 Listening Guide (PDF)" %}}
 
 ———. _Symphony No. 5 in C minor, Op. 67_. From: _Beethoven: Symphonies Nos. 5 & 7._ Vienna Philharmonic. Carlos Kleiber. Deutsche Grammophon, 1996. Tracks 1–4.
 
@@ -76,7 +80,7 @@ Beethoven, Ludvig van. 4. "Choral." _Symphony No. 9 in D minor, Op. 125_. From: 
 
 Solomon, Maynard. "The Sense of an Ending: The Ninth Symphony." Chapter 11 in _Late Beethoven: Music, Thought, Imagination_. University of California Press, 2004, pp. 213–28. ISBN: 9780520243392.
 
-Beethoven, Ludwig van. 4th movement. [Symphony No. 9 in D Minor, Op. 125](https://www.baerenreiter.com/en/search/product/?artNo=BA9009). Bärenreiter-Verlag. Score, Urtext edition. pp. 195–329. For open source full scores of the 9th Symphony see [IMSLP](http://imslp.org/wiki/Symphony_No.9,_Op.125_(Beethoven,_Ludwig_van)).
+Beethoven, Ludwig van. 4{{< sup "th" >}} movement. [Symphony No. 9 in D Minor, Op. 125](https://www.baerenreiter.com/en/search/product/?artNo=BA9009). Bärenreiter-Verlag. Score, Urtext edition. pp. 195–329. For open source full scores of the 9th Symphony see [IMSLP](http://imslp.org/wiki/Symphony_No.9,_Op.125_(Beethoven,_Ludwig_van)).
 
 ### Opera
 
