@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21m-250-beethoven-to-mahler-spring-2014/d5963606355c6c32111dcb17166cbaec_21M-250_classroom-1.jpg
+file_size: 50671
 file_type: image/jpeg
 image_metadata:
   caption: ''
