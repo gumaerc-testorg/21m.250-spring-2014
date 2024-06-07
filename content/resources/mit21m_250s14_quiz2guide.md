@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding exam 2 study
   guide.
 file: /courses/21m-250-beethoven-to-mahler-spring-2014/6c19dadce87b388fd58927e91aea85d6_MIT21M_250S14_Quiz2Guide.pdf
+file_size: 601457
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
