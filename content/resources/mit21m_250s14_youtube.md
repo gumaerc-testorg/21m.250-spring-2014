@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding opera excerpts
   on YouTube.
-file: /courses/21m-250-beethoven-to-mahler-spring-2014/39cc7fc734021da35c6bff96d7963ad0_MIT21M_250S14_Youtube.pdf
+file: /ol-ocw-studio-app/courses/21m-250-beethoven-to-mahler-spring-2014/39cc7fc734021da35c6bff96d7963ad0_MIT21M_250S14_Youtube.pdf
 file_size: 94386
 file_type: application/pdf
 learning_resource_types: []
