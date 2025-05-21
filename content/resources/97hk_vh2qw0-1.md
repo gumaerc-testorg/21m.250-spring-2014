@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21m-250-beethoven-to-mahler-spring-2014/1695053afef16cb683443b6cf1731a1a_97Hk_vH2qw0.pdf
+file: /courses/21m-250-beethoven-to-mahler-spring-2014/1695053afef16cb683443b6cf1731a1a_97Hk_vH2qw0.pdf
 file_size: 64162
 file_type: application/pdf
 learning_resource_types: []
