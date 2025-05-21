@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a resource file that contains information regarding week I:
   introduction and beethoven.'
-file: /ol-ocw-studio-app/courses/21m-250-beethoven-to-mahler-spring-2014/a4c262289d1bb4c633e6237a2ae1d959_MIT21M_250S14_Week_I.pdf
+file: /courses/21m-250-beethoven-to-mahler-spring-2014/a4c262289d1bb4c633e6237a2ae1d959_MIT21M_250S14_Week_I.pdf
 file_size: 135922
 file_type: application/pdf
 learning_resource_types:

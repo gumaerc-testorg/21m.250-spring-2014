@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a resource file that contains information regarding week VIII:
   wagner and verdi (verdi).'
-file: /ol-ocw-studio-app/courses/21m-250-beethoven-to-mahler-spring-2014/43687ccda0d819f436e095ddcd926429_MIT21M_250S14_Week_VIII.pdf
+file: /courses/21m-250-beethoven-to-mahler-spring-2014/43687ccda0d819f436e095ddcd926429_MIT21M_250S14_Week_VIII.pdf
 file_size: 102855
 file_type: application/pdf
 learning_resource_types:
