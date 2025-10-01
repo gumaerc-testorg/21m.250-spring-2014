@@ -34,11 +34,11 @@ Recordings and some scores for each listening assignment are listed on the {{% r
 
 ### Recordings
 
-Recommended recordings for the assigned listening are cited on the Listening and Scores page. Performances can be heard through the [Naxos Music Library](http://www.naxosmusiclibrary.com/) and other online subscription services; check with your local public or university library for access to online music resources. Some recordings are openly available on the International Music Score Library Project ([IMSLP](http://imslp.org)) website. [Youtube](http://youtube.com) is another option for listening to performances, but the recording quality can vary.
+Recommended recordings for the assigned listening are cited on the Listening and Scores page. Performances can be heard through the {{% resource_link "3a70e299-bba7-47a4-a703-a9aee5e35af5" "Naxos Music Library" %}} and other online subscription services; check with your local public or university library for access to online music resources. Some recordings are openly available on the International Music Score Library Project ({{% resource_link "b0a86f86-72f3-48f8-a812-e99bc8d05b47" "IMSLP" %}}) website. {{% resource_link "958d4d3f-c0a8-49d1-a424-71b11d095d87" "Youtube" %}} is another option for listening to performances, but the recording quality can vary.
 
 _Scores_
 
-The required textbook contains numerous score excerpts. Many open source full scores are available on the [IMSLP](http://imslp.org) website, or you can check your local library.
+The required textbook contains numerous score excerpts. Many open source full scores are available on the {{% resource_link "b0a86f86-72f3-48f8-a812-e99bc8d05b47" "IMSLP" %}} website, or you can check your local library.
 
 Class Participation
 -------------------
