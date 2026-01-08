@@ -477,7 +477,7 @@ Mahler, "Ich bin der Welt abhanden gekommen" from _Fünf Rückertlieder._
 
 ### Helpful but not Required
 
-Taruskin, Richard. _Music in the Early Twentieth Century: The Oxford History of Western Music_. Vol. 3. Oxford University Press, 2009, pp. 1–23, 59–83, 97–129, and 599–601. ISBN: 9780195384840. \[Preview with {{% resource_link "db40158e-af00-4b91-89fa-a919dfa6cfb2" "Google Books" %}}\]
+Taruskin, Richard. _Music in the Early Twentieth Century: The Oxford History of Western Music_. Vol. 3. Oxford University Press, 2009, pp. 1–23, 59–83, 97–129, and 599–601. ISBN: 9780195384840. \[Preview with [Google Books](http://books.google.com/books?id=JANUr3mG3kAC&pg=PA1#v=onepage)\]
 
 
 {{< tdclose >}}
