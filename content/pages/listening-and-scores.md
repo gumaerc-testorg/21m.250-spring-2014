@@ -44,7 +44,7 @@ Listening Guide: {{% resource_link c87288bb-5a60-2761-bd4c-5ad7444d8519 "Beethov
 
 ———. _Symphony No. 5 in C minor, Op. 67_. From: _Beethoven: Symphonies Nos. 5 & 7._ Vienna Philharmonic. Carlos Kleiber. Deutsche Grammophon, 1996. Tracks 1–4.
 
-———. {{% resource_link "cf783ee7-e3c4-42aa-9c7d-aaa7982bd693" "Piano Sonata No. 32 in C minor, Op. 111 Score" %}}
+———. [Piano Sonata No. 32 in C minor, Op. 111 Score](http://imslp.org/wiki/Piano_Sonata_No.32,_Op.111_(Beethoven,_Ludwig_van))
 
 ———. _Piano Sonata No. 32 in C minor, Op. 111_. From: _Beethoven, The Complete Sonatas, Vol. 3, Sonatas 23–32_. Seymour Lipkin. Newport Classics, 2004. Disc 3, Tracks 7–8.
 
@@ -80,7 +80,7 @@ Beethoven, Ludvig van. 4. "Choral." _Symphony No. 9 in D minor, Op. 125_. From: 
 
 Solomon, Maynard. "The Sense of an Ending: The Ninth Symphony." Chapter 11 in _Late Beethoven: Music, Thought, Imagination_. University of California Press, 2004, pp. 213–28. ISBN: 9780520243392.
 
-Beethoven, Ludwig van. 4{{< sup "th" >}} movement. {{% resource_link "e0ca7564-44a4-4b76-9d40-d4986ccdd03e" "Symphony No. 9 in D Minor, Op. 125" %}}. Bärenreiter-Verlag. Score, Urtext edition. pp. 195–329. For open source full scores of the 9th Symphony see {{% resource_link "cc03e408-ab8d-488a-be50-1b9be5f65029" "IMSLP" %}}.
+Beethoven, Ludwig van. 4{{< sup "th" >}} movement. [Symphony No. 9 in D Minor, Op. 125](https://www.baerenreiter.com/en/search/product/?artNo=BA9009). Bärenreiter-Verlag. Score, Urtext edition. pp. 195–329. For open source full scores of the 9th Symphony see [IMSLP](http://imslp.org/wiki/Symphony_No.9,_Op.125_(Beethoven,_Ludwig_van)).
 
 ### Opera
 
@@ -182,9 +182,9 @@ Mendelssohn, Felix. "Allein Gott in der Höh' sei Ehr'," "Da das die Apostel hö
 
 Weber, Carl Maria von. "Act II Finale: Wolf Glen's Scene." _Der Freischütz_. From: _Weber: Der Freischütz ~ C. Kleiber_. Staatskapelle Dresden, Carlos Kleiber. Recorded 1973. Deutsche Grammophon, 1998. Disc 2 Track 1.
 
-———. Der Freischütz, "Wolf Glen Scene," Part 1: "Weber Der Freischutz 'Wolf's Glen scene, Part 1.'" Operasceners's Channel. February 8, 2011. YouTube. Accessed August 20, 2014. {{% resource_link "49415772-817a-4026-9418-38049f721de0" "https://www.youtube.com/watch?v=xv31lyk0rGs" %}}
+———. Der Freischütz, "Wolf Glen Scene," Part 1: "Weber Der Freischutz 'Wolf's Glen scene, Part 1.'" Operasceners's Channel. February 8, 2011. YouTube. Accessed August 20, 2014. [https://www.youtube.com/watch?v=xv31lyk0rGs](https://www.youtube.com/watch?v=xv31lyk0rGs)
 
-———. Der Freischütz, "Wolf Glen Scene," Part 2: "Weber- Der Freischutz 'Wolf's Glen scene, Part 2.'" Operasceners's Channel. February 8, 2011. YouTube. Accessed August 20, 2014. {{% resource_link "63233f90-4dc3-418b-9488-c45b5d908682" "https://www.youtube.com/watch?feature=endscreen&NR=1&v=I440nx3nLso" %}}
+———. Der Freischütz, "Wolf Glen Scene," Part 2: "Weber- Der Freischutz 'Wolf's Glen scene, Part 2.'" Operasceners's Channel. February 8, 2011. YouTube. Accessed August 20, 2014. [https://www.youtube.com/watch?feature=endscreen&NR=1&v=I440nx3nLso](https://www.youtube.com/watch?feature=endscreen&NR=1&v=I440nx3nLso)
 
 ### Helpful but not Required
 
@@ -224,9 +224,9 @@ Liszt, Franz. No. 6. _Grand Études de Paganini_. From: _Liszt: The Complete Etu
 
 ———. "Allegro maestoso." _Piano Concerto No. 1 in E-flat (1855) mvt 1_. From: _Franz Liszt: Klavierkonzerte Nos. 1 & 2–Totentanz_. Krystian Zimerman, Boston Symphony Orchestra, Seiji Ozawa. Deutsche Grammophon, 1990. Track 1.
 
-———. Etude No. 3 "La Campenella." KEUDER. "Evgeny Kissin Liszt-La Campanella in gis-moll." February 6, 2008. YouTube. Accessed August 20, 2014. {{% resource_link "8b7fad39-46dc-4825-a545-70217e730ab9" "https://www.youtube.com/watch?v=Tlagfa\_GHfQ" %}}
+———. Etude No. 3 "La Campenella." KEUDER. "Evgeny Kissin Liszt-La Campanella in gis-moll." February 6, 2008. YouTube. Accessed August 20, 2014. [https://www.youtube.com/watch?v=Tlagfa\_GHfQ](https://www.youtube.com/watch?v=Tlagfa_GHfQ)
 
-———. Etude No. 3 "La Campenella." Score. From: {{% resource_link "1b930f6f-d3c9-48ce-9d5e-2e13844d1792" "_Etudes for Transcendental Technique after Paganini (PDF)_" %}}. pp. 22.
+———. Etude No. 3 "La Campenella." Score. From: [_Etudes for Transcendental Technique after Paganini (PDF)_](http://conquest.imslp.info/files/imglnks/usimg/f/f9/IMSLP55300-PMLP11088-Liszt_Musikalische_Werke_2_Band_3_37.pdf). pp. 22.
 
 ———. "Réminiscences of Mozart's Don Giovanni, S. 418." _Grande fantasies for piano_. From: _Live at Carnegie Hall_. Lang Lang. Deutsche Grammophon, 2004. Disc 2, Track 1.
 
@@ -248,7 +248,7 @@ _Variations on the Pianoforte on a given Theme_: Theme by Diabelli, Variation by
 
 Liszt, Franz. No. 2. _Grand Études de Paganini_. From: _Liszt: The Complete Etudes_. Nikita Magaloff. Philips, 1997. Disk 2, Track 7.
 
-Meyerbeer, Giacomo. Marguerite's Aria. _Les Huguenots_. Dreadfin Records. "Montserrat Caballé - (opera 'Les Huguenots') - New Philharmonia Orchestra – 1973." March 23, 2014. YouTube. Accessed August 29, 2014. {{% resource_link "7f5ed9ea-9617-4a95-91be-9df39fc0b775" "https://www.youtube.com/watch?v=nJ2Rc3XbU8U" %}}
+Meyerbeer, Giacomo. Marguerite's Aria. _Les Huguenots_. Dreadfin Records. "Montserrat Caballé - (opera 'Les Huguenots') - New Philharmonia Orchestra – 1973." March 23, 2014. YouTube. Accessed August 29, 2014. [https://www.youtube.com/watch?v=nJ2Rc3XbU8U](https://www.youtube.com/watch?v=nJ2Rc3XbU8U)
 
 ———. "Conclusion of Act II pts. 1–9." _Les Huguenots_. From: _Norton Recorded Anthology of Western Music, Vol. 2: Classic to Romantic_. W. W. Norton, 2010. Disc 4, Tracks 8–16.
 
@@ -338,13 +338,13 @@ Wagner and Verdi
 {{< tdopen >}}
 
 
-﻿Wagner, Richard.   Prologue (piano-vocal score). _Götterdämmerung (The Twilight of the Gods)_, _WWV 86D_. See {{% resource_link "db85efe8-f0f9-4d12-bf56-7b3c39f81f01" "IMLSP" %}}.
+﻿Wagner, Richard.   Prologue (piano-vocal score). _Götterdämmerung (The Twilight of the Gods)_, _WWV 86D_. See [IMLSP](http://imslp.org/wiki/G%C3%B6tterd%C3%A4mmerung,_WWV_86D_(Wagner,_Richard)#tab4).
 
 ### Helpful but not Required
 
 Wagner, Richard. Act III "Brünnhilde, Heilege Braut," Trauermusik, "Siegfried, Siegfried Erschlagen," and "Starke Scheite Schichtet Mit Dort." _Götterdämmerung_. From: _Richard Wagner: Götterdämmerung Complete Act III_. Dimitri Mitropoulos, Astrid Varnay, Ramon Vinay, New York Philharmonic Orchestra, Urania, 2005/Archipel, 2010. Tracks 6–9.
 
-Characters and relationships: Ring cycle family tree. University of Texas, {{% resource_link "4415e13a-6093-4234-991f-5c430ae6c57c" "Wagner website" %}}.
+Characters and relationships: Ring cycle family tree. University of Texas, [Wagner website](http://www.utexas.edu/courses/wagner/home.html).
 
 
 {{< tdclose >}}
@@ -500,7 +500,7 @@ Mahler. _Das Lied von der Erde_. From: _Mahler:_ _Das Lied von der Erde; 3 Rück
 
 ### Helpful but not Required
 
-Taruskin, Richard. _Music in the Early Twentieth Century: The Oxford History of Western Music_. Vol. 3. Oxford University Press, 2009, pp. 1–23, 59–83, 97–129, and 599–601. ISBN: 9780195384840. \[Preview with {{% resource_link "db40158e-af00-4b91-89fa-a919dfa6cfb2" "Google Books" %}}\]
+Taruskin, Richard. _Music in the Early Twentieth Century: The Oxford History of Western Music_. Vol. 3. Oxford University Press, 2009, pp. 1–23, 59–83, 97–129, and 599–601. ISBN: 9780195384840. \[Preview with [Google Books](http://books.google.com/books?id=JANUr3mG3kAC&pg=PA1#v=onepage)\]
 
 Strauss, Richard. _Tod und Verklärung (Death and Transfiguration), Op. 24_. From: _James Levine–A Celebration in Music_. The Met Orchestra. Deutsche Grammophon, 2003. Disc 4, Track 14.
 
